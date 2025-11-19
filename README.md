@@ -26,9 +26,11 @@ I’m a **solution-oriented Data Scientist** With 12+ years of engineering exper
 
 ### 📫 Connect With Me  
 
-<a href="www.linkedin.com/in/swapnil-patil-data-scientist"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"></a>
-<a href="pswapnil070@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail&style=for-the-badge"></a>
-<a href="[YOUR_KAGGLE_URL](https://www.kaggle.com/swap1984)"><img src="https://img.shields.io/badge/Kaggle-View%20Profile-20BEFF?logo=kaggle&style=for-the-badge"></a>
+[![www.linkedin.com/in/swapnil-patil-data-scientist](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![pswapnil070@gmail.com](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+[![[Kaggle]](https://www.kaggle.com/swap1984)(https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](YOUR_KAGGLE_URL)
 
 
 
