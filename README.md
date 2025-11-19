@@ -1,5 +1,4 @@
-# SwapnilSudhakarnPatil
-### 👋 Hi, I'm Swapnil Sudhakar Patil
+### 👋 Hi, I'm Swapnil 
 
 I am a **Data Scientist** with strong expertise in **Machine Learning, Data Analysis, and Generative AI**. 
 I enjoy transforming raw data into insights and building end-to-end ML projects that solve real-world problems.
