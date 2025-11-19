@@ -24,14 +24,5 @@ I confidently design, develop, and deliver end-to-end analytics workflows — fr
 ### 🎯 What Defines Me
 I’m a **solution-oriented Data Scientist** With 12+ years of engineering experience and sharp data science skills, who enjoys exploring complex datasets, extracting meaningful insights, and building ML models that genuinely solve real-world problems.
 
-### 📫 Connect With Me  
-
-[![www.linkedin.com/in/swapnil-patil-data-scientist](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-
-[![pswapnil070@gmail.com](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
-[![[Kaggle]](https://www.kaggle.com/swap1984)(https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](YOUR_KAGGLE_URL)
-
-
-
+📫 Connect With Me
 
